@@ -33,3 +33,13 @@ SQL (MySQL / DBeaver)
 Excel (Pivot Tables, Formulas, Charts)
 DAX, Power Query, Data Modeling
 Data Visualization & Reporting
+
+🌐 Connect With Me
+📎 LinkedIn – www.linkedin.com/in/catherin-judy
+📧 Email: your email ID
+
+🏅 Currently Working On
+Enhancing my Power BI and SQL projects while preparing for Data Analyst Internship opportunities.
+
+🌱 Fun Fact
+I love exploring new datasets, creating visual stories, and continuously improving my analytics skills!
