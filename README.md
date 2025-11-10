@@ -1,11 +1,20 @@
 # data-analyst-portfolio
 My data analytics projects built using Power BI, Excel, and SQL.
 
-📊 Data Analyst Portfolio – Catherin Judy A
-Hi! I’m Catherin Judy, an aspiring Data Analyst skilled in Power BI, Excel, and SQL.
-This repository showcases my academic and self-driven analytics projects that demonstrate my ability to clean, analyze, and visualize data effectively.
+👋 Hi, I’m Catherin Judy A
+
+🎯 Aspiring Data Analyst skilled in Power BI, Excel, and SQL
+
+📍 Based in Tamil Nadu, India | Open to Remote Internships
+
+💡 About Me
+
+I’m passionate about transforming data into actionable insights through dashboards, reports, and analysis.
+Currently building strong skills in data cleaning, visualization, and reporting using Power BI, Excel, and SQL.
+I enjoy working on real-world projects that bring out patterns, trends, and meaningful business insights.
 
 💼 Projects
+
 🚗 Road Accident Analysis Dashboard (Power BI)
 Analyzes accident severity, location, and casualty types using DAX KPIs and visuals.
 
